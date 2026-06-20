@@ -20,4 +20,7 @@ print(fullName)
 ### Lenght of str len(str)
 print(len(fullName))
 
-## Indexing
+## Indexing (to access characters)
+str = "Raj Sharma"
+print(str[5])
+# str[4] = A , Not allowed
